@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWtYMxZLL3s=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SpaceSolarPanel\\1.6\\Source\\AV_SpaceSolarPanel\\AV_SpacerSolarPanel\\AV_SpaceSolarPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damnw\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4538-beta\\krafs.rimworld.ref.1.6.4538-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

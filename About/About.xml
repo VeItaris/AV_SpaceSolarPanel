@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[AV] Space Solar Panels</name>
+	<author>Veltaris</author>
+	<supportedVersions>
+		<li>1.6</li>
+		<li>1.7</li>
+    </supportedVersions>
+	<modDependencies>
+		
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Odyssey</li>
+		<li>brrainz.harmony</li>
+		<li>Veltaris.Framework</li>
+	</loadAfter>
+	<loadBefore>
+		
+	</loadBefore>
+    <packageId>Veltaris.SpaceSolar</packageId>
+	<modVersion>1.0.00</modVersion>
+    <description>Adds 1x2 and 1x3 solar panels, which gather 30% more power in orbit.</description>
+</ModMetaData>

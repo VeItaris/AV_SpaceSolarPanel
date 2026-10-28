@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+ 
+
+  	<!-- base -->
+	
+	<ThingDef Name="AV_SolarPanel_Base" ParentName="BuildingBase" Abstract="True">
+		<description>Produces electricity from sunlight. Does not work in the dark or under artificial light. The maximum power output is 30% higher in orbit.</description>
+		<thingClass>Building</thingClass>
+		<drawerType>MapMeshAndRealTime</drawerType>
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shadowData>
+				<volume>(1.0,0.75,1.0)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+				<!-- 
+				<rect>(0,0.6,4,2.8)</rect>
+				-->
+			</damageData>
+		</graphicData>
+		<castEdgeShadows>true</castEdgeShadows>
+		<rotatable>true</rotatable>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>50</pathCost>
+		<fillPercent>0.5</fillPercent>
+		<canOverlapZones>false</canOverlapZones>
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>2500</WorkToBuild>
+			<Flammability>0.7</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<size>(2,1)</size>
+		<building>
+			<destroySound>BuildingDestroyed_Metal_Big</destroySound>
+		</building>
+		<comps>
+			<li Class="CompProperties_Breakdownable"/>
+			<li Class="CompProperties_Stunnable">
+				<useLargeEMPEffecter>true</useLargeEMPEffecter>
+				<empChancePerTick>0.03</empChancePerTick>
+				<affectedDamageDefs>
+					<li>EMP</li>
+				</affectedDamageDefs>
+			</li>
+		</comps>
+		<terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<uiOrder>2100</uiOrder>
+		<designationHotKey>Misc5</designationHotKey>
+		<constructEffect>ConstructMetal</constructEffect>
+		<researchPrerequisites>
+			<li>SolarPanels</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+	</ThingDef>
+
+  	<!-- 1x2 -->	
+	<ThingDef  ParentName="AV_SolarPanel_Base">
+		<defName>AV_SolarPanel_small</defName>
+		<label>solar generator (1x2)</label>
+		<graphicData>
+			<texPath>Things/Building/AV_solar_small</texPath>
+			<drawSize>(3,2)</drawSize>
+			<shadowData>
+				<volume>(2.0,1,1.0)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+		</graphicData>
+		<size>(2,1)</size>	
+		<costList>
+			<Steel>20</Steel>
+			<ComponentIndustrial>1</ComponentIndustrial>
+			<BlocksVacstone MayRequire="Ludeon.RimWorld.Odyssey">10</BlocksVacstone>
+		</costList>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>500</WorkToBuild>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>AV_SpaceSolarPanel.CompPowerPlantSolar_Space</compClass>
+				<basePowerConsumption>-220</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+		</comps>
+	</ThingDef>		
+
+  	<!-- 1x3 -->
+	<ThingDef  ParentName="AV_SolarPanel_Base">
+		<defName>AV_SolarPanel_wide</defName>
+		<label>solar generator (1x3)</label>
+		<graphicData>
+			<texPath>Things/Building/AV_solar_wide</texPath>
+			<drawSize>(4,2)</drawSize>
+			<shadowData>
+				<volume>(3.0,1,1.0)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+		</graphicData>
+		<size>(3,1)</size>	
+		<costList>
+			<Steel>30</Steel>
+			<ComponentIndustrial>1</ComponentIndustrial>
+			<BlocksVacstone MayRequire="Ludeon.RimWorld.Odyssey">15</BlocksVacstone>
+		</costList>
+		<statBases>
+			<MaxHitPoints>150</MaxHitPoints>
+			<WorkToBuild>1000</WorkToBuild>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>AV_SpaceSolarPanel.CompPowerPlantSolar_Space</compClass>
+				<basePowerConsumption>-330</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+		</comps>
+	</ThingDef>	
+  
+
+</Defs>
+

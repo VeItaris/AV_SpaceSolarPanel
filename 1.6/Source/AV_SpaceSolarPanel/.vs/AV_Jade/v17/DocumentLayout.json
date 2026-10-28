@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\av_sparklingjade\\1.6\\source\\av_jade\\av_jade\\floatmenuoptionprovider_carrytomenhir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\floatmenuoptionprovider_carrytomenhir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\patchoperations\\patchoperation_modsettings_usepulsespecialeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\patchoperations\\patchoperation_modsettings_usepulsespecialeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\verb_casttargeteffectcellpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\verb_casttargeteffectcellpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\main\\av_jade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\main\\av_jade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\comps_things\\comp_menhirpulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\comps_things\\comp_menhirpulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\damageworker\\damageworker_jadepulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\damageworker\\damageworker_jadepulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\comps_target\\comptargeteffect_mechanoidenergycell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\comps_target\\comptargeteffect_mechanoidenergycell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\comps_things\\compproperties_menhirpulse.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\comps_things\\compproperties_menhirpulse.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\placeworker\\placeworker_showpulseradius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\placeworker\\placeworker_showpulseradius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\main\\defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\main\\defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\av_jade\\comps_things\\comp_stonepulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9D5701-7B01-4A8A-9A2C-957F40730E0F}|AV_Jade\\AV_Jade.csproj|solutionrelative:av_jade\\comps_things\\comp_stonepulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompTargetEffect_MechanoidEnergyCell.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Target\\CompTargetEffect_MechanoidEnergyCell.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Comps_Target\\CompTargetEffect_MechanoidEnergyCell.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Target\\CompTargetEffect_MechanoidEnergyCell.cs",
+              "RelativeToolTip": "AV_Jade\\Comps_Target\\CompTargetEffect_MechanoidEnergyCell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FloatMenuOptionProvider_CarryToMenhir.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\FloatMenuOptionProvider_CarryToMenhir.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\FloatMenuOptionProvider_CarryToMenhir.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\FloatMenuOptionProvider_CarryToMenhir.cs",
+              "RelativeToolTip": "AV_Jade\\FloatMenuOptionProvider_CarryToMenhir.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:12:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Verb_CastTargetEffectCellPack.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Verb_CastTargetEffectCellPack.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Verb_CastTargetEffectCellPack.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Verb_CastTargetEffectCellPack.cs",
+              "RelativeToolTip": "AV_Jade\\Verb_CastTargetEffectCellPack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DamageWorker_JadePulse.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\DamageWorker\\DamageWorker_JadePulse.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\DamageWorker\\DamageWorker_JadePulse.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\DamageWorker\\DamageWorker_JadePulse.cs",
+              "RelativeToolTip": "AV_Jade\\DamageWorker\\DamageWorker_JadePulse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wDwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaceWorker_ShowPulseRadius.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\PlaceWorker\\PlaceWorker_ShowPulseRadius.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\PlaceWorker\\PlaceWorker_ShowPulseRadius.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\PlaceWorker\\PlaceWorker_ShowPulseRadius.cs",
+              "RelativeToolTip": "AV_Jade\\PlaceWorker\\PlaceWorker_ShowPulseRadius.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompProperties_MenhirPulse.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Things\\CompProperties_MenhirPulse.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Comps_Things\\CompProperties_MenhirPulse.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Things\\CompProperties_MenhirPulse.cs",
+              "RelativeToolTip": "AV_Jade\\Comps_Things\\CompProperties_MenhirPulse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comp_StonePulse.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Things\\Comp_StonePulse.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Comps_Things\\Comp_StonePulse.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Things\\Comp_StonePulse.cs",
+              "RelativeToolTip": "AV_Jade\\Comps_Things\\Comp_StonePulse.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatchOperation_ModSettings_UsePulseSpecialEffect.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\PatchOperations\\PatchOperation_ModSettings_UsePulseSpecialEffect.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\PatchOperations\\PatchOperation_ModSettings_UsePulseSpecialEffect.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\PatchOperations\\PatchOperation_ModSettings_UsePulseSpecialEffect.cs",
+              "RelativeToolTip": "AV_Jade\\PatchOperations\\PatchOperation_ModSettings_UsePulseSpecialEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comp_MenhirPulse.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Things\\Comp_MenhirPulse.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Comps_Things\\Comp_MenhirPulse.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Comps_Things\\Comp_MenhirPulse.cs",
+              "RelativeToolTip": "AV_Jade\\Comps_Things\\Comp_MenhirPulse.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAmwAUBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AV_Jade.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Main\\AV_Jade.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Main\\AV_Jade.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Main\\AV_Jade.cs",
+              "RelativeToolTip": "AV_Jade\\Main\\AV_Jade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:49.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Main\\DefOf.cs",
+              "RelativeDocumentMoniker": "AV_Jade\\Main\\DefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AV_SparklingJade\\1.6\\Source\\AV_Jade\\AV_Jade\\Main\\DefOf.cs",
+              "RelativeToolTip": "AV_Jade\\Main\\DefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:50.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
